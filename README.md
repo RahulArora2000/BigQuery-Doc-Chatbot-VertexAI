@@ -7,8 +7,8 @@ This repository contains code that utilizes Google Cloud's Vertex AI Language Mo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/RahulArora2000/BigQuery-Doc-Chatbot-VertexAI.git
+
 ```
 
 2. Install dependencies:
